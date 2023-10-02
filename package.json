@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-package-623847124",
+  "name": "my-awesome-package-for-testing",
   "version": "0.1.0",
   "description": "Check out my awesome package!",
   "main": "./dist/cjs/index.js",
